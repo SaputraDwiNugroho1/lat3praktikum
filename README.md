@@ -24,3 +24,13 @@ Hasil Outputnya sebagai berikut :
 
 Penjelasan
 line 1 mencetak string "Program Mengurutkan Data" line 3-5 Membuat input dengan a sebagai variabelnya untuk memasukkan nilai yang diinginkan line 7-9 mencetak bilangan yang sudah diinputkan sebelumnya line 11-18 membuat logika untuk mengurutkan angka yang sudah diinputkan sebelumnya dengan menggunakan bubble sort line 20-21 mencetak hasil perbandingan dengan menggunakan bubble sort.
+
+# Latihan 3
+Buat program dengan perulangan bertingkat (nested) for seperti di bawah ini :
+
+![gambar 3](foto/s5.png)
+
+Hasil Outputnya sebagai berikut :
+
+![gambar 3](foto/s6.png)
+
